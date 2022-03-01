@@ -1,2 +1,3 @@
 # basic-algorithms
-Bunch of basic algorithms that I wrote a while ago for fun.
+
+Bunch of basic algorithms/solutions that I wrote a while ago for fun.
